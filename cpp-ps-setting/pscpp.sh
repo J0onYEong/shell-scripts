@@ -1,7 +1,5 @@
 #!/bin/zsh
 
-nowPath=`pwd`
-
-touch $nowPath/solution.cpp
-touch $nowPath/output.txt
-touch $nowPath/input.txt
+touch ./solution.cpp && cp $cppdepath/basecode.cpp ./solution.cpp
+touch ./output.txt
+touch ./input.txt
