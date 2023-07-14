@@ -4,8 +4,12 @@
 
 using namespace std;
 
-void solution() {
+void input() {
 
+}
+
+void solution() {
+    input();
 }
 
 int main() {
